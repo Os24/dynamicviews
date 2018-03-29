@@ -1,0 +1,10 @@
+.bg-warning{
+		padding: 20px;
+		background: red;
+		color: white;
+}
+.bg-success{
+		padding: 20px;
+		background: green;
+		color: white;
+}
